@@ -1,0 +1,6 @@
+renv/library/
+
+renv/cache/
+
+.Rhistory
+.Rprofile
